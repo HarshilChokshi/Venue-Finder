@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{266549BF-8B99-445C-BD4A-074B6CE2B326}|Default">
+  <MonoDevelop.Ide.ItemProperties.CoffeeFinder.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CAF89AD4-9429-4E5E-A8CF-C07DA31B6932" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CoffeeFinder/CoffeeFinder/.gitignore">
+    <Files>
+      <File FileName="CoffeeFinder/CoffeeFinder/.gitignore" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/ProgramDevelopment/CoffeeFinder-XamarinFormsDemo-master/CoffeeFinder/CoffeeFinder/Views/VenueListViewPage.xaml.cs" line="16" column="1" />
+      <Breakpoint file="/ProgramDevelopment/CoffeeFinder-XamarinFormsDemo-master/CoffeeFinder/CoffeeFinder/Views/VenueListViewPage.xaml.cs" line="18" column="1" />
+      <Breakpoint file="/ProgramDevelopment/CoffeeFinder-XamarinFormsDemo-master/CoffeeFinder/CoffeeFinder/Views/VenueListViewPage.xaml.cs" line="20" column="1" />
+      <Breakpoint file="/ProgramDevelopment/CoffeeFinder-XamarinFormsDemo-master/CoffeeFinder/CoffeeFinder.Android/Services/LocationService.cs" line="40" column="1" />
+      <Breakpoint file="/ProgramDevelopment/CoffeeFinder-XamarinFormsDemo-master/CoffeeFinder/CoffeeFinder.Android/Services/LocationService.cs" line="23" column="1" />
+      <Breakpoint file="/ProgramDevelopment/CoffeeFinder-XamarinFormsDemo-master/CoffeeFinder/CoffeeFinder.Android/Services/LocationService.cs" line="31" column="1" />
+      <Breakpoint file="/ProgramDevelopment/CoffeeFinder-XamarinFormsDemo-master/CoffeeFinder/CoffeeFinder.Android/Services/LocationService.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CoffeeFinder.Android PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>
